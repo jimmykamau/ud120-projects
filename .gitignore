@@ -11,3 +11,5 @@ my_feature_list.pkl
 env/
 # dotenv
 .env
+*.DS_Store
+enron_mail_20150507.tar.gz
